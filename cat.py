@@ -6,7 +6,6 @@ class Cat():
     def speak(self):
         print("Meow")
 
-
 #Create objects here
 #These should NOT be indented inside the class
 
