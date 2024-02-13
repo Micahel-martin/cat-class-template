@@ -1,7 +1,7 @@
 #Revmoe pass and complete the cat class
 class Cat():
     def _init_(self):
-        self.name="unknown"
+        self.name="Unknown"
         self.age= 0 
     def speak(self):
         print("Meow")
