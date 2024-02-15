@@ -1,5 +1,5 @@
 class Cat():
-    def _init_(self):
+    def __init__(self):
         self.name="Unknown"
         self.age= 0 
 
